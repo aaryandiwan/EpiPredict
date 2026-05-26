@@ -7,7 +7,7 @@ influenza activity patterns across multiple countries.
 
 ## Dataset
 - Source: WHO Influenza Surveillance Dataset
-- Records: 180,000+ weekly entries
+- Records: 180,000+ weekly epidemiological entries
 - Coverage: Global, multi-year
 - Data Type: Aggregated laboratory surveillance data
 
